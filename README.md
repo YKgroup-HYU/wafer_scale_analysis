@@ -27,6 +27,7 @@ The goal is to develop software that can analyze wafer scale data in detail.
 |name|E-mail|:smile:|
 |:---:|:---:|:---:|
 |Park seoung min:boy:|psm401@hanyang.ac.kr|<img src = "https://user-images.githubusercontent.com/84078034/121825519-e074d280-cced-11eb-8507-995dd571eaf4.png" width = "100" height = "100">|
+|Kim kang seok:boy:|stone410@naver.com|<img src = "https://user-images.githubusercontent.com/89181329/132611009-a175bf6e-38ad-4a77-844d-20c256de744b.jpg" width = "100" height = "100">|
 
 ---
 
